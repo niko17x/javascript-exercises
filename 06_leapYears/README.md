@@ -14,3 +14,10 @@ leapYears(1985) // is not a leap year: returns false
 
 ## Hints
 - use an `if` statement and `&&` to make sure all the conditions are met properly
+
+
+/*
+
+divisible by 100 and divisible by 400.
+divisible by 4.
+*/
